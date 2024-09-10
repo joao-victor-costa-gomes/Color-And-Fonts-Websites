@@ -25,6 +25,11 @@
 ### [Palette Maker](https://palettemaker.com/)
 ![palette maker](img/palettemaker.PNG)
 
+### [Color Psychology](https://www.colorpsychology.org/)
+![color psychology](img/color%20psychology.PNG)
+
+
+
 ---
 
 ## FONTS
